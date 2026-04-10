@@ -31,6 +31,12 @@ Analyze Swiggy order data to answer questions like:
 | `Dashboard` | Summary view with all key KPIs and visuals |
 
 ---
+## Visualization Summary
+
+---
+<img width="1180" height="719" alt="dashboard swiggy" src="https://github.com/user-attachments/assets/9ed474e6-e8c8-411f-9df0-2093ea862a9b" />
+
+---
 
 ## Concepts Used
 
